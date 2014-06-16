@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/8321/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/meta/gef/editors/components/eidtpolicy
+END
+TreeConstrainedLayoutEditPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/8341/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/meta/gef/editors/components/eidtpolicy/TreeConstrainedLayoutEditPolicy.java
+END
+TreeNodeContainerEditPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/8324/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/meta/gef/editors/components/eidtpolicy/TreeNodeContainerEditPolicy.java
+END
+TextStyleSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/8341/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/meta/gef/editors/components/eidtpolicy/TextStyleSupport.java
+END
+TreeExpandSupportEditPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/8341/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/meta/gef/editors/components/eidtpolicy/TreeExpandSupportEditPolicy.java
+END
+TreeNodeDeleteableEditPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/8341/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/meta/gef/editors/components/eidtpolicy/TreeNodeDeleteableEditPolicy.java
+END

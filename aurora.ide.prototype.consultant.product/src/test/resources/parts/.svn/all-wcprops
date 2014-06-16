@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/test/resources/parts
+END
+app.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/test/resources/parts/app.xml
+END
+settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/test/resources/parts/settings.xml
+END
+[Content_Types].xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/test/resources/parts/%5BContent_Types%5D.xml
+END

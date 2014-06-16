@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/8083/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/editor
+END
+TabBodyFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/8083/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/editor/TabBodyFilter.java
+END
+ScreenBodyContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/8083/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/editor/ScreenBodyContentProvider.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/8109/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/editor/Messages.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/8109/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/editor/messages.properties
+END
+FSDEditorContributor.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/8083/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/editor/FSDEditorContributor.java
+END
+ScreenBodyLabelProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/8083/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/editor/ScreenBodyLabelProvider.java
+END
+ComponentFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/8083/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/editor/ComponentFilter.java
+END
+FSDEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/8240/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/editor/FSDEditor.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7509/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/product
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/7733/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/product/Application.java
+END
+Perspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/7892/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/product/Perspective.java
+END
+ICommandIds.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/7476/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/product/ICommandIds.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/7929/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/product/Activator.java
+END
+ApplicationActionBarAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/8108/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/product/ApplicationActionBarAdvisor.java
+END
+ApplicationWorkbenchAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/7645/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/product/ApplicationWorkbenchAdvisor.java
+END
+ApplicationWorkbenchWindowAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/product/ApplicationWorkbenchWindowAdvisor.java
+END

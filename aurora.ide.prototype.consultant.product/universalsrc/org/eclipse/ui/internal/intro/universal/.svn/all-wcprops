@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/7505/trunk/aurora_ide/aurora.ide.prototype.consultant.product/universalsrc/org/eclipse/ui/internal/intro/universal
+END
+SeparatorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/7505/trunk/aurora_ide/aurora.ide.prototype.consultant.product/universalsrc/org/eclipse/ui/internal/intro/universal/SeparatorData.java
+END
+UniversalIntroConfigurer.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/7505/trunk/aurora_ide/aurora.ide.prototype.consultant.product/universalsrc/org/eclipse/ui/internal/intro/universal/UniversalIntroConfigurer.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/7505/trunk/aurora_ide/aurora.ide.prototype.consultant.product/universalsrc/org/eclipse/ui/internal/intro/universal/Messages.java
+END
+ExtensionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/7505/trunk/aurora_ide/aurora.ide.prototype.consultant.product/universalsrc/org/eclipse/ui/internal/intro/universal/ExtensionData.java
+END
+GroupData.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/7505/trunk/aurora_ide/aurora.ide.prototype.consultant.product/universalsrc/org/eclipse/ui/internal/intro/universal/GroupData.java
+END
+IUniversalIntroConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/7505/trunk/aurora_ide/aurora.ide.prototype.consultant.product/universalsrc/org/eclipse/ui/internal/intro/universal/IUniversalIntroConstants.java
+END
+BaseData.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/7505/trunk/aurora_ide/aurora.ide.prototype.consultant.product/universalsrc/org/eclipse/ui/internal/intro/universal/BaseData.java
+END
+CustomizationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/7505/trunk/aurora_ide/aurora.ide.prototype.consultant.product/universalsrc/org/eclipse/ui/internal/intro/universal/CustomizationDialog.java
+END
+Messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/7505/trunk/aurora_ide/aurora.ide.prototype.consultant.product/universalsrc/org/eclipse/ui/internal/intro/universal/Messages.properties
+END
+WelcomeCustomizationPreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/7505/trunk/aurora_ide/aurora.ide.prototype.consultant.product/universalsrc/org/eclipse/ui/internal/intro/universal/WelcomeCustomizationPreferencePage.java
+END
+CustomizationContentsArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/7505/trunk/aurora_ide/aurora.ide.prototype.consultant.product/universalsrc/org/eclipse/ui/internal/intro/universal/CustomizationContentsArea.java
+END
+CustomizeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/7505/trunk/aurora_ide/aurora.ide.prototype.consultant.product/universalsrc/org/eclipse/ui/internal/intro/universal/CustomizeAction.java
+END
+PageData.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/7505/trunk/aurora_ide/aurora.ide.prototype.consultant.product/universalsrc/org/eclipse/ui/internal/intro/universal/PageData.java
+END
+Messages_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/7505/trunk/aurora_ide/aurora.ide.prototype.consultant.product/universalsrc/org/eclipse/ui/internal/intro/universal/Messages_zh_CN.properties
+END
+IntroData.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/7505/trunk/aurora_ide/aurora.ide.prototype.consultant.product/universalsrc/org/eclipse/ui/internal/intro/universal/IntroData.java
+END
+ExtensionDataTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/7505/trunk/aurora_ide/aurora.ide.prototype.consultant.product/universalsrc/org/eclipse/ui/internal/intro/universal/ExtensionDataTransfer.java
+END

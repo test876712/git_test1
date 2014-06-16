@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/7892/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action
+END
+OpenLocalProjectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/8109/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/OpenLocalProjectAction.java
+END
+ModuleExportFSDAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/8057/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/ModuleExportFSDAction.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/8218/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/Messages.java
+END
+RemoveLocalFolderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/8109/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/RemoveLocalFolderAction.java
+END
+DownItemAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/8218/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/DownItemAction.java
+END
+CollapseAllAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/7892/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/CollapseAllAction.java
+END
+CreateFunctionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/8218/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/CreateFunctionAction.java
+END
+MenuCreateFunctionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/8216/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/MenuCreateFunctionAction.java
+END
+OpenLocalFolderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/7892/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/OpenLocalFolderAction.java
+END
+UpItemAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/8218/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/UpItemAction.java
+END
+FunctionExportFSDAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/8218/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/FunctionExportFSDAction.java
+END
+ProjectExportFSDAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/8218/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/ProjectExportFSDAction.java
+END
+CreateModuleAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/8218/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/CreateModuleAction.java
+END
+LinkEditorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/7892/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/LinkEditorAction.java
+END
+MenuCreateModuleAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/8216/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/MenuCreateModuleAction.java
+END
+PopMenuManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/8216/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/PopMenuManager.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/8218/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/messages.properties
+END
+MenuCreateUIPAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/8216/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/MenuCreateUIPAction.java
+END
+CreateUIPAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/8218/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/CreateUIPAction.java
+END
+NewMenuAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/8218/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/NewMenuAction.java
+END
+MenuAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/8216/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/MenuAction.java
+END
+MenuCreateProjectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/8216/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/MenuCreateProjectAction.java
+END
+CreateProjectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/8218/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/CreateProjectAction.java
+END
+RefreshLocalFileSystemAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/7892/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/view/action/RefreshLocalFileSystemAction.java
+END

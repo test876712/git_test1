@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples
+END
+ContentControlsAddCustomXmlDataStoragePart.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/ContentControlsAddCustomXmlDataStoragePart.java
+END
+AltChunkAddOfTypeDocx.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/AltChunkAddOfTypeDocx.java
+END
+ContentControlsMergeXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/ContentControlsMergeXML.java
+END
+DisplayMainDocumentPartXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/DisplayMainDocumentPartXml.java
+END
+PartLoadFromFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/PartLoadFromFileSystem.java
+END
+BookmarkAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/BookmarkAdd.java
+END
+ConvertInFlatOpenPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/ConvertInFlatOpenPackage.java
+END
+TraverseFind.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/TraverseFind.java
+END
+XPathQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/XPathQuery.java
+END
+BookmarksDeleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/BookmarksDeleter.java
+END
+HeaderFooterNoneOnTitlePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/HeaderFooterNoneOnTitlePage.java
+END
+HeaderFooterCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/HeaderFooterCreate.java
+END
+Watermark.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/Watermark.java
+END
+ContentControlsInfoParts.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/ContentControlsInfoParts.java
+END
+SubDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/SubDocument.java
+END
+CompareDocumentsUsingDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/CompareDocumentsUsingDriver.java
+END
+DocProps.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/DocProps.java
+END
+HyperlinkTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/HyperlinkTest.java
+END
+MergeDocx.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/MergeDocx.java
+END
+PartsStrip.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/PartsStrip.java
+END
+ContentControlsInfoStructure.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/ContentControlsInfoStructure.java
+END
+ImageConvertEmbeddedToLinked.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/ImageConvertEmbeddedToLinked.java
+END
+NumberingRestart.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/NumberingRestart.java
+END
+AltChunkXHTMLRoundTrip.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/AltChunkXHTMLRoundTrip.java
+END
+TableOfContentsAdd2.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/7833/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/TableOfContentsAdd2.java
+END
+OpenMainDocumentAndTraverse.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/OpenMainDocumentAndTraverse.java
+END
+ConvertOutFlatOpenPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/ConvertOutFlatOpenPackage.java
+END
+PartCopy.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/PartCopy.java
+END
+HeaderFooterList.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/HeaderFooterList.java
+END
+ImageAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/ImageAdd.java
+END
+TemplateAttach.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/TemplateAttach.java
+END
+CommentsSample.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/CommentsSample.java
+END
+OpenAndSaveRoundTripTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/OpenAndSaveRoundTripTest.java
+END
+AltChunkAddOfTypeHtml.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/AltChunkAddOfTypeHtml.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/Filter.java
+END
+ConvertOutPDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/ConvertOutPDF.java
+END
+CommentsDeleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/CommentsDeleter.java
+END
+CompareDocuments.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/CompareDocuments.java
+END
+CreateWordprocessingMLDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/CreateWordprocessingMLDocument.java
+END
+ContentControlsXmlEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/org/docx4j/samples/ContentControlsXmlEdit.java
+END

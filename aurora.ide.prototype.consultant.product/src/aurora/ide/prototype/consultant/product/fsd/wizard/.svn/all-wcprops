@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/7819/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/product/fsd/wizard
+END
+FSDComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/8054/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/product/fsd/wizard/FSDComposite.java
+END
+ExportWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/7896/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/product/fsd/wizard/ExportWizard.java
+END
+ApplyControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/8054/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/product/fsd/wizard/ApplyControl.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/8109/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/product/fsd/wizard/Messages.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/8109/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/product/fsd/wizard/messages.properties
+END
+FSDContentControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/8098/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/product/fsd/wizard/FSDContentControl.java
+END
+ContentDescPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/7897/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/product/fsd/wizard/ContentDescPage.java
+END
+FunctionDescPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/7859/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/product/fsd/wizard/FunctionDescPage.java
+END
+TitleControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/8054/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/product/fsd/wizard/TitleControl.java
+END
+AuthorControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/8054/trunk/aurora_ide/aurora.ide.prototype.consultant.product/src/aurora/ide/prototype/consultant/product/fsd/wizard/AuthorControl.java
+END
